@@ -1,0 +1,121 @@
+ram_configurada_gb,n,distribuicao,consulta,algoritmo,tempo_medio_ms,comparacoes_media,movimentos_media,status
+16,100,aleatorio,existente,Busca Linear,0.006467,100.00,0.00,executado
+16,100,aleatorio,existente,Busca Binaria,0.000533,9.00,0.00,executado
+16,100,aleatorio,ausente,Busca Linear,0.002233,100.00,0.00,executado
+16,100,aleatorio,ausente,Busca Binaria,0.000433,12.00,0.00,executado
+16,100,aleatorio,nao_aplicavel,Selection Sort,0.120300,4950.00,294.00,executado
+16,100,aleatorio,nao_aplicavel,Merge Sort,0.054233,533.00,1344.00,executado
+16,100,ordenado,existente,Busca Linear,0.002433,100.00,0.00,executado
+16,100,ordenado,existente,Busca Binaria,0.000767,13.00,0.00,executado
+16,100,ordenado,ausente,Busca Linear,0.002233,100.00,0.00,executado
+16,100,ordenado,ausente,Busca Binaria,0.000467,12.00,0.00,executado
+16,100,ordenado,nao_aplicavel,Selection Sort,0.106467,4950.00,0.00,executado
+16,100,ordenado,nao_aplicavel,Merge Sort,0.005100,316.00,1344.00,executado
+16,1000,aleatorio,existente,Busca Linear,0.023467,1000.00,0.00,executado
+16,1000,aleatorio,existente,Busca Binaria,0.000433,13.00,0.00,executado
+16,1000,aleatorio,ausente,Busca Linear,0.021733,1000.00,0.00,executado
+16,1000,aleatorio,ausente,Busca Binaria,0.003900,18.00,0.00,executado
+16,1000,aleatorio,nao_aplicavel,Selection Sort,2.203300,499500.00,2973.00,executado
+16,1000,aleatorio,nao_aplicavel,Merge Sort,0.178367,8712.00,19952.00,executado
+16,1000,ordenado,existente,Busca Linear,0.022367,1000.00,0.00,executado
+16,1000,ordenado,existente,Busca Binaria,0.000567,19.00,0.00,executado
+16,1000,ordenado,ausente,Busca Linear,0.021600,1000.00,0.00,executado
+16,1000,ordenado,ausente,Busca Binaria,0.000633,18.00,0.00,executado
+16,1000,ordenado,nao_aplicavel,Selection Sort,0.261533,499500.00,0.00,executado
+16,1000,ordenado,nao_aplicavel,Merge Sort,0.064767,4932.00,19952.00,executado
+16,5000,aleatorio,existente,Busca Linear,0.105433,5000.00,0.00,executado
+16,5000,aleatorio,existente,Busca Binaria,0.000833,25.00,0.00,executado
+16,5000,aleatorio,ausente,Busca Linear,0.064800,5000.00,0.00,executado
+16,5000,aleatorio,ausente,Busca Binaria,0.000533,24.00,0.00,executado
+16,5000,aleatorio,nao_aplicavel,Selection Sort,6.179300,12497500.00,14982.00,executado
+16,5000,aleatorio,nao_aplicavel,Merge Sort,0.334800,55241.00,123616.00,executado
+16,5000,ordenado,existente,Busca Linear,0.067333,5000.00,0.00,executado
+16,5000,ordenado,existente,Busca Binaria,0.000633,25.00,0.00,executado
+16,5000,ordenado,ausente,Busca Linear,0.016700,5000.00,0.00,executado
+16,5000,ordenado,ausente,Busca Binaria,0.000467,24.00,0.00,executado
+16,5000,ordenado,nao_aplicavel,Selection Sort,5.857333,12497500.00,0.00,executado
+16,5000,ordenado,nao_aplicavel,Merge Sort,0.093733,29804.00,123616.00,executado
+16,10000,aleatorio,existente,Busca Linear,0.026000,10000.00,0.00,executado
+16,10000,aleatorio,existente,Busca Binaria,0.000533,23.00,0.00,executado
+16,10000,aleatorio,ausente,Busca Linear,0.025933,10000.00,0.00,executado
+16,10000,aleatorio,ausente,Busca Binaria,0.000500,26.00,0.00,executado
+16,10000,aleatorio,nao_aplicavel,Selection Sort,23.981700,49995000.00,29976.00,executado
+16,10000,aleatorio,nao_aplicavel,Merge Sort,0.646533,120522.00,267232.00,executado
+16,10000,ordenado,existente,Busca Linear,0.048567,10000.00,0.00,executado
+16,10000,ordenado,existente,Busca Binaria,0.000567,27.00,0.00,executado
+16,10000,ordenado,ausente,Busca Linear,0.108967,10000.00,0.00,executado
+16,10000,ordenado,ausente,Busca Binaria,0.000700,26.00,0.00,executado
+16,10000,ordenado,nao_aplicavel,Selection Sort,23.297933,49995000.00,0.00,executado
+16,10000,ordenado,nao_aplicavel,Merge Sort,0.256033,64608.00,267232.00,executado
+16,50000,aleatorio,existente,Busca Linear,0.016833,50000.00,0.00,executado
+16,50000,aleatorio,existente,Busca Binaria,0.000833,29.00,0.00,executado
+16,50000,aleatorio,ausente,Busca Linear,0.016767,50000.00,0.00,executado
+16,50000,aleatorio,ausente,Busca Binaria,0.000533,30.00,0.00,executado
+16,50000,aleatorio,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,50000,aleatorio,nao_aplicavel,Merge Sort,3.877133,718277.00,1568928.00,executado
+16,50000,ordenado,existente,Busca Linear,0.017500,50000.00,0.00,executado
+16,50000,ordenado,existente,Busca Binaria,0.000800,31.00,0.00,executado
+16,50000,ordenado,ausente,Busca Linear,0.016800,50000.00,0.00,executado
+16,50000,ordenado,ausente,Busca Binaria,0.000567,30.00,0.00,executado
+16,50000,ordenado,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,50000,ordenado,nao_aplicavel,Merge Sort,1.032900,382512.00,1568928.00,executado
+16,60000,aleatorio,existente,Busca Linear,0.020100,60000.00,0.00,executado
+16,60000,aleatorio,existente,Busca Binaria,0.000667,31.00,0.00,executado
+16,60000,aleatorio,ausente,Busca Linear,0.021333,60000.00,0.00,executado
+16,60000,aleatorio,ausente,Busca Binaria,0.002100,30.00,0.00,executado
+16,60000,aleatorio,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,60000,aleatorio,nao_aplicavel,Merge Sort,4.636700,876996.00,1908928.00,executado
+16,60000,ordenado,existente,Busca Linear,0.020133,60000.00,0.00,executado
+16,60000,ordenado,existente,Busca Binaria,0.001300,31.00,0.00,executado
+16,60000,ordenado,ausente,Busca Linear,0.021333,60000.00,0.00,executado
+16,60000,ordenado,ausente,Busca Binaria,0.000833,30.00,0.00,executado
+16,60000,ordenado,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,60000,ordenado,nao_aplicavel,Merge Sort,1.278933,469008.00,1908928.00,executado
+16,100000,aleatorio,existente,Busca Linear,0.034933,100000.00,0.00,executado
+16,100000,aleatorio,existente,Busca Binaria,0.000833,29.00,0.00,executado
+16,100000,aleatorio,ausente,Busca Linear,0.035000,100000.00,0.00,executado
+16,100000,aleatorio,ausente,Busca Binaria,0.000867,32.00,0.00,executado
+16,100000,aleatorio,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,100000,aleatorio,nao_aplicavel,Merge Sort,8.126533,1536360.00,3337856.00,executado
+16,100000,ordenado,existente,Busca Linear,0.034633,100000.00,0.00,executado
+16,100000,ordenado,existente,Busca Binaria,0.000933,33.00,0.00,executado
+16,100000,ordenado,ausente,Busca Linear,0.034300,100000.00,0.00,executado
+16,100000,ordenado,ausente,Busca Binaria,0.000833,32.00,0.00,executado
+16,100000,ordenado,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,100000,ordenado,nao_aplicavel,Merge Sort,2.211433,815024.00,3337856.00,executado
+16,400000,aleatorio,existente,Busca Linear,0.142033,400000.00,0.00,executado
+16,400000,aleatorio,existente,Busca Binaria,0.001000,37.00,0.00,executado
+16,400000,aleatorio,ausente,Busca Linear,0.156000,400000.00,0.00,executado
+16,400000,aleatorio,ausente,Busca Binaria,0.001267,36.00,0.00,executado
+16,400000,aleatorio,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,400000,aleatorio,nao_aplicavel,Merge Sort,36.568800,6944805.00,14951424.00,executado
+16,400000,ordenado,existente,Busca Linear,0.139133,400000.00,0.00,executado
+16,400000,ordenado,existente,Busca Binaria,0.000733,37.00,0.00,executado
+16,400000,ordenado,ausente,Busca Linear,0.162033,400000.00,0.00,executado
+16,400000,ordenado,ausente,Busca Binaria,0.000733,36.00,0.00,executado
+16,400000,ordenado,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,400000,ordenado,nao_aplicavel,Merge Sort,9.496600,3660096.00,14951424.00,executado
+16,500000,aleatorio,existente,Busca Linear,0.113500,500000.00,0.00,executado
+16,500000,aleatorio,existente,Busca Binaria,0.000933,35.00,0.00,executado
+16,500000,aleatorio,ausente,Busca Linear,0.175800,500000.00,0.00,executado
+16,500000,aleatorio,ausente,Busca Binaria,0.000933,36.00,0.00,executado
+16,500000,aleatorio,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,500000,aleatorio,nao_aplicavel,Merge Sort,50.199033,8837180.00,18951424.00,executado
+16,500000,ordenado,existente,Busca Linear,0.115033,499999.00,0.00,executado
+16,500000,ordenado,existente,Busca Binaria,0.000900,35.00,0.00,executado
+16,500000,ordenado,ausente,Busca Linear,0.112900,500000.00,0.00,executado
+16,500000,ordenado,ausente,Busca Binaria,0.000933,36.00,0.00,executado
+16,500000,ordenado,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,500000,ordenado,nao_aplicavel,Merge Sort,12.177367,4692496.00,18951424.00,executado
+16,700000,aleatorio,existente,Busca Linear,0.172000,700000.00,0.00,executado
+16,700000,aleatorio,existente,Busca Binaria,0.001067,37.00,0.00,executado
+16,700000,aleatorio,ausente,Busca Linear,0.166933,700000.00,0.00,executado
+16,700000,aleatorio,ausente,Busca Binaria,0.009400,38.00,0.00,executado
+16,700000,aleatorio,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,700000,aleatorio,nao_aplicavel,Merge Sort,66.183800,12724206.00,27302848.00,executado
+16,700000,ordenado,existente,Busca Linear,0.157100,699999.00,0.00,executado
+16,700000,ordenado,existente,Busca Binaria,0.000200,37.00,0.00,executado
+16,700000,ordenado,ausente,Busca Linear,0.161867,700000.00,0.00,executado
+16,700000,ordenado,ausente,Busca Binaria,0.000167,38.00,0.00,executado
+16,700000,ordenado,nao_aplicavel,Selection Sort,,,,omitido: custo O(n^2)
+16,700000,ordenado,nao_aplicavel,Merge Sort,16.836767,6651088.00,27302848.00,executado
